@@ -1,4 +1,4 @@
-# Random-Graphs-ErdosRenyi-C-
+# Random-Graphs-ErdosRenyi-
 
 This project was done as part of an Algorithms course.
 It deals with the study of 3 attributes in graphs according to the Erdös–Renyi model.
